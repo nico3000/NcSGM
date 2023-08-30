@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Divinity: Original Sin Enhanced Edition, Honour Mode",
+        "pathToWatch": "${home}/Documents/Larian Studios/Divinity Original Sin Enhanced Edition/PlayerProfiles/*/Savegames_patch/HonourMode",
+        "backupFolder": "${home}/.ncsgm/Divinity Original Sin EE"
+    },
+    {
+        "name": "Divinity Original Sin 2, Honour Mode",
+        "pathToWatch": "${home}/Documents/Larian Studios/Divinity Original Sin 2/PlayerProfiles/*/Savegames/Story/HonourMode",
+        "backupFolder": "${home}/.ncsgm/Divinity Original Sin 2"
+    },
+    {
+        "name": "Divinity Original Sin 2 Definitive Edition, Honour Mode",
+        "pathToWatch": "${home}/Documents/Larian Studios/Divinity Original Sin 2 Definitive Edition/PlayerProfiles/*/Savegames/Story/HonourMode",
+        "backupFolder": "${home}/.ncsgm/Divinity Original Sin 2 DE"
+    }
+]
